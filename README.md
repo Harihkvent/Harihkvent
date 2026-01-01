@@ -117,47 +117,26 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-## 📊 GitHub Stats
+---
 
-<div align="center">
-
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=Harihkvent&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%"/>
-</td>
-<td>
-<img src="https://streak-stats.demolab.com?user=Harihkvent&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harihkvent&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=445" alt="Top Languages"/>
-
-### 🐍 Contribution Snake
-<img src="https://raw.githubusercontent.com/Harihkvent/Harihkvent/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Harihkvent&theme=date_night&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Harihkvent&theme=date_night&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harihkvent&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Harihkvent&theme=tokyonight&no-frame=true&margin-w=10&row=2&column=4" alt="GitHub Trophies"/>
-
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Harihkvent&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
-## 📈 Contribution Activity
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Harihkvent&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<div align="center">
+---
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Harihkvent&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
-
-</div>
+[![](https://visitcount.itsvg.in/api?id=Harihkvent&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 

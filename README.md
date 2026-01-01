@@ -132,11 +132,11 @@
 </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harihkvent&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" width="45%"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harihkvent&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=445)
 
 ### 🐍 Contribution Snake
-
-![Snake animation](https://github.com/Harihkvent/Harihkvent/blob/output/github-contribution-grid-snake.svg)
+<!-- Snake will appear once GitHub Action runs -->
+![snake gif](https://raw.githubusercontent.com/Harihkvent/Harihkvent/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -146,17 +146,17 @@
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Harihkvent&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Harihkvent&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
-[![Hari's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Harihkvent&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/Harihkvent)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Harihkvent&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
 
 </div>
 

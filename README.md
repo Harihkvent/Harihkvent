@@ -127,16 +127,15 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Harihkvent&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%"/>
 </td>
 <td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harihkvent&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=Harihkvent&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
 </td>
 </tr>
 </table>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harihkvent&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=445)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harihkvent&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=445" alt="Top Languages"/>
 
 ### 🐍 Contribution Snake
-<!-- Snake will appear once GitHub Action runs -->
-![snake gif](https://raw.githubusercontent.com/Harihkvent/Harihkvent/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/Harihkvent/Harihkvent/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 
 </div>
 
@@ -146,7 +145,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Harihkvent&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=Harihkvent&theme=tokyonight&no-frame=true&margin-w=10&row=2&column=4" alt="GitHub Trophies"/>
 
 </div>
 

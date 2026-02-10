@@ -18,7 +18,7 @@
 ## 💫 About Me
 
 🎓 **Final-year B.Tech Student** in Information Technology at **MVGR College of Engineering, Vizianagaram**  
-📊 **CGPA:** 7.63 | 🎯 **Expected Graduation:** 2026
+📊 **CGPA:** 7.64 | 🎯 **Expected Graduation:** 2026
 
 💡 Passionate about building **intelligent, scalable systems** with expertise in:
 - 🤖 **Generative AI & Agentic AI** - Creating next-gen AI-powered solutions
@@ -35,7 +35,7 @@
 
 <table>
 <tr>
-<td>🎓 CGPA: <b>7.63/10</b></td>
+<td>🎓 CGPA: <b>7.64/10</b></td>
 <td>📅 Grad Year: <b>2026</b></td>
 <td>💻 Projects: <b>15+</b></td>
 </tr>
